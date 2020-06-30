@@ -20,9 +20,21 @@
 
 ### ppt展示
 
-* 本队的答辩ppt已上传，供大家学习交流
+* 本队的答辩ppt已上传，供大家学习交流（时间匆忙，所以ppt制作得比较粗糙）
 
 ### 详细方案说明
 
 * 未完待续
 
+### 比赛结果
+
+* A榜和B榜得分都是第一
+
+* <center class="half">
+      <img src="C:\Users\luhua\AppData\Roaming\Typora\typora-user-images\1593496003736.png" alt="B榜排名" align=right style="zoom: 30%;" />
+      <img src="C:\Users\luhua\AppData\Roaming\Typora\typora-user-images\1593496039188.png" alt="A榜排名" align=left style="zoom: 30%;" />
+  <center>
+
+   	   
+
+  
