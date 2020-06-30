@@ -31,8 +31,8 @@
 * A榜和B榜得分都是第一
 
 * <center class="half">
-      <img src="https://github.com/basketballandlearn/QA-Assistant-Champion-Team-Sharing/blob/master/image/B榜排名.PNG" alt="B榜排名" align=right style="zoom: 15%;" />
-      <img src="https://github.com/basketballandlearn/QA-Assistant-Champion-Team-Sharing/blob/master/image/A榜排名.PNG" alt="A榜排名" align=left style="zoom: 15%;" />
+      <img src="https://github.com/basketballandlearn/QA-Assistant-Champion-Team-Sharing/blob/master/image/B榜排名.PNG" alt="B榜排名" width = "50%" align=right style="zoom: 15%;" />
+      <img src="https://github.com/basketballandlearn/QA-Assistant-Champion-Team-Sharing/blob/master/image/A榜排名.PNG" alt="A榜排名" width = "50%" align=left style="zoom: 15%;" />
   <center>
 
   
