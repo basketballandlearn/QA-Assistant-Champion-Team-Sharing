@@ -31,10 +31,13 @@
 * A榜和B榜得分都是第一
 
 * <center class="half">
-      <img src="C:\Users\luhua\AppData\Roaming\Typora\typora-user-images\1593496003736.png" alt="B榜排名" align=right style="zoom: 30%;" />
-      <img src="C:\Users\luhua\AppData\Roaming\Typora\typora-user-images\1593496039188.png" alt="A榜排名" align=left style="zoom: 30%;" />
+      <img src="https://github.com/basketballandlearn/QA-Assistant-Champion-Team-Sharing/blob/master/image/B榜排名.PNG" alt="B榜排名" align=right style="zoom: 30%;" />
+      <img src="https://github.com/basketballandlearn/QA-Assistant-Champion-Team-Sharing/blob/master/image/A榜排名.PNG" alt="A榜排名" align=left style="zoom: 30%;" />
   <center>
 
-   	   
-
   
+	
+   	   
+  
+  
+
