@@ -28,7 +28,7 @@
 
 ### 比赛结果
 
-* A榜和B榜得分都是第一
+* A榜和B榜得分均top1
 
 * <center class="half">
       <img src="https://github.com/basketballandlearn/QA-Assistant-Champion-Team-Sharing/blob/master/image/B榜排名.PNG" alt="B榜排名" width = "45%" align=right style="zoom: 20%;" />
